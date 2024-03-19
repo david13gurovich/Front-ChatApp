@@ -1,4 +1,4 @@
-# -Client-Chat
+# -Frontend-Client-Chat
 ## Run backend API and MVC (Read backend README before running this app!) 
 https://github.com/oriAngel62/backendChatApp.git
 
@@ -7,7 +7,7 @@ This is Stage one of Client ServerChat task in advnace 2 course.
 The task was coded by Avia Hadad, Ori Angle, and David Gurovic.
 The project main repository can be found at:
 
-https://github.com/oriAngel62/Client-Server-Chat
+https://github.com/david13gurovich/Front-ChatApp
 
 All 3 has contributed to the projcts via git & github version control management system,
 contributions can be tracked with git log.
