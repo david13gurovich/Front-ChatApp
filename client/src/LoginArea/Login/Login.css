@@ -1,0 +1,26 @@
+.Login {
+    margin: auto;
+    width: 50%;
+    background-image: ("../../../public/background.jpg")
+}
+
+.Login>form {
+    width: 250px;
+}
+
+.Login input,
+.Login button {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+}
+
+.Login span {
+    color: red;
+    margin: 0 20px;
+    margin-left: 40%;
+}
+
+body {
+    background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/28/2/SPxJ2K.jpg");
+  }
