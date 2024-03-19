@@ -4,7 +4,7 @@ https://github.com/david13gurovich/Back-ChatApp
 
 This is Stage one of Client ServerChat task in advnace 2 course.
 
-The task was coded by Avia Hadad, Ori Angle, and David Gurovic.
+The task was coded by Avia Hadad, Ori Angel, and David Gurovic.
 The project main repository can be found at:
 
 https://github.com/david13gurovich/Front-ChatApp
